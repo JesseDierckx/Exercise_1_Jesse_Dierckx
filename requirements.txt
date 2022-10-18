@@ -1,0 +1,4 @@
+FastApi=latest
+platform=latest
+psutil=latest
+datetime=latest
