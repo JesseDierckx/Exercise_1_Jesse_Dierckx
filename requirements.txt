@@ -1,4 +1,4 @@
 FastApi==0.85.1
-platform==latest
+platform==3.10.8
 psutil==latest
 datetime==latest
