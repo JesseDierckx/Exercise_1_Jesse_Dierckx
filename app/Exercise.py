@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+import FastApi
 import platform, psutil
 import datetime
 

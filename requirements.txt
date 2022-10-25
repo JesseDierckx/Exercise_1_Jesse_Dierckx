@@ -1,4 +1,4 @@
-FastApi=latest
-platform=latest
-psutil=latest
-datetime=latest
+FastApi==0.85.1
+platform==latest
+psutil==latest
+datetime==latest
